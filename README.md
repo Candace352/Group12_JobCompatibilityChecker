@@ -1,5 +1,5 @@
 # Project Title
--- Job Compatibility Checker
+Job Compatibility Checker
 
 # Project Description
 This project builds an application that allows a user to upload a job description file and resumes in pdf format only. The application then outputs a percentage similarity, indicating how well the resume fits the job description and also gives a ranking on which resumes are better aligned with the job description given. This project makes use of the following tools:
