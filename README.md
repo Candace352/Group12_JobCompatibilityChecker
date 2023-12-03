@@ -35,4 +35,5 @@ langchain
 1. Clone the repo from the GitHub repository
 2. Install the necessary libraries
 3. Run the command streamlit run projectCode.py
-4. Link to deployed application:
+4. Link to deployed application: https://jobcompabilitycheckergp12.streamlit.app/
+5. Youtube Video Demonstration: https://youtu.be/_LMGFfx965M
