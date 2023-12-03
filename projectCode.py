@@ -15,6 +15,10 @@ from reportlab.pdfgen import canvas
 # Set OpenAI API key
 openai.api_key = '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'
 
+st.title("Job Compatibility Checker.")
+st.write("You have the flexibility to upload and manage multiple resumes and job descriptions.")
+st.write("Allowing you the freedom to select and present your most relevant and compelling documents for the job.")
+
 # Function to open a file dialog and return the selected file path
 def get_resume_paths():
     resume_files = st.file_uploader("Upload resumes (PDF)", type=["pdf"], accept_multiple_files=True)
