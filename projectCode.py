@@ -13,6 +13,8 @@ from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
 
 # Set OpenAI API key
+#openai.api_key = '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'
+
 openai.api_key = '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'
 
 st.title("Job Compatibility Checker.")
