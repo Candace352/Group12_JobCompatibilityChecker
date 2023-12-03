@@ -13,7 +13,7 @@ from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
 
 # Set OpenAI API key
-openai.api_key = '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'
+openai.api_key = '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'
 
 st.title("Job Compatibility Checker.")
 st.write("You have the flexibility to upload and manage multiple resumes and job descriptions.")
