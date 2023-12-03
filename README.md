@@ -36,3 +36,7 @@ langchain
 3. Run the command streamlit run projectCode.py
 4. Link to deployed application: https://jobcompabilitycheckergp12.streamlit.app/
 5. Youtube Video Demonstration: https://youtu.be/_LMGFfx965M
+
+# References
+1. https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+2. https://www.mlexpert.io/prompt-engineering/langchain-quickstart
